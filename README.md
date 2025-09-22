@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, LLM, MLOps**
 
-- 👨‍💻 All of my projects are available at [mrshibly.xo.je](mrshibly.xo.je)
+- 👨‍💻 All of my projects are available at [mrshibly.xo.je](https://mrshibly.xo.je)
 
 - 📫 How to reach me **mahmudurrahman858@gmail.com**
 
