@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mahmudur Rahman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An aspiring AI/ML Engineer with research experience in Bangla NLP (emotion detection, video summarization). Skilled in machine learning, deep learning, and data preprocessing. Currently expanding knowledge in MLOps and large language models, aiming to build scalable AI-driven solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20views&color=0e75b6&style=flat" alt="mrshibly" /> </p>
 
