@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🔭 Working on **Bangla Video Summarization (Multimodal NLP)**
 - 🌱 Learning **MLOps, LLMs, Applied AI**
-- 👨‍💻 Portfolio: [mrshibly.xo.je](https://mrshibly.xo.je)  
+- 👨‍💻 Portfolio: [mrshibly.onrender.com](https://mrshibly.onrender.com)  
 - 📫 Reach me: **mahmudurrahman858@gmail.com**  
 - 🏆 Winner — **NASA Space Apps Challenge 2024 (Rajshahi Zone, Global Nominee)**  
 
