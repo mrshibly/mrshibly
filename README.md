@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mahmudur Rahman</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Bangla NLP Researcher | NASA Space Apps Global Nominee</h3>
+<h3 align="center">AI Developer at Softvence | Bangla NLP Researcher | NASA Space Apps Global Nominee</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20views&color=0e75b6&style=plastic" alt="mrshibly" />
