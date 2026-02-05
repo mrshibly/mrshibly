@@ -21,7 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20Views&color=grey&style=flat" />
   <img src="https://img.shields.io/github/followers/mrshibly?label=Followers&style=flat" />
 </p>
----
 
 ## 👋 About
 
