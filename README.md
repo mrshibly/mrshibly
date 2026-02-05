@@ -1,123 +1,56 @@
-# Md. Mahmudur Rahman
+<h1 align="center">Hi 👋, I'm Md. Mahmudur Rahman</h1>
+<h3 align="center">
+AI / ML Engineer | Bangla NLP & RAG Systems | Computer Vision | NASA Space Apps Global Nominee
+</h3>
 
-**AI / ML Engineer**  
-Bangla NLP · RAG Systems · Computer Vision  
-NASA Space Apps Challenge 2024 — Regional Winner & Global Nominee
-
----
-
-## Overview
-
-I am an AI/ML Engineer working on **production-grade NLP, Computer Vision, and LLM-based systems**, with a strong focus on **Bangla (low-resource) language technologies**.
-
-My work spans **Retrieval-Augmented Generation (RAG)**, **document intelligence**, **OCR pipelines**, and **real-time vision systems**, with an emphasis on **grounded outputs, performance, and deployability**.
-
-- 📍 Dhaka, Bangladesh  
-- 💼 AI Developer at **Softvence**  
-- 📫 mahmudurrahman858@gmail.com  
-- 🌐 https://mrshibly.onrender.com  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20views&color=0e75b6&style=plastic" alt="mrshibly" />
+</p>
 
 ---
 
-## Core Expertise
-
-- **Natural Language Processing:** Bangla NLP, Transformers, BanglaBERT, Semantic Search  
-- **LLMs & RAG:** FAISS, E5 Embeddings, LangChain, Hallucination Mitigation  
-- **Computer Vision:** YOLOv8, OCR, OpenCV, Object Detection  
-- **MLOps & Deployment:** Docker, FastAPI, MLflow, Hugging Face Spaces  
-- **Data Systems:** PDF Intelligence, Vector Databases, Multimodal Pipelines  
-
----
-
-## Selected Projects
-
-### Real-Time Pothole Detection (YOLOv8)
-- Built a real-time object detection system using **YOLOv8-nano**
-- Achieved **~97% mAP@50** on a custom dataset (600+ labeled images)
-- Optimized for edge deployment with **~20ms/frame inference**
-- Deployed via **Gradio** for interactive demos  
-
-🔗 https://github.com/mrshibly/Pothole-Detector  
-🔗 https://huggingface.co/spaces/mrshibly/Pothole-Detector  
+### 🚀 About Me
+- 🔭 **AI / ML Engineer** at **Softvence**, building production-ready AI systems
+- 🧠 Specialized in **Bangla NLP**, **Retrieval-Augmented Generation (RAG)**, and **Document Intelligence**
+- 🤖 Hands-on with **YOLOv8**, **OCR pipelines**, **FAISS**, **LLM grounding**
+- 📄 Researching **low-resource Bangla NLP** and **multimodal summarization**
+- 👨‍💻 Portfolio: [mrshibly.onrender.com](https://mrshibly.onrender.com)  
+- 📫 Reach me: **mahmudurrahman858@gmail.com**  
+- 🏆 Winner — **NASA Space Apps Challenge 2024 (Rajshahi Zone, Global Nominee)**  
 
 ---
 
-### BD-Insight — Domain-Specific RAG Architecture
-- Designed a **Retrieval-Augmented Generation (RAG)** system for unstructured PDFs
-- Used **E5-base bi-encoders + FAISS** for low-latency semantic retrieval
-- Implemented grounded generation with **Flan-T5 Large**, eliminating hallucinations
-- Applied to legal and economic documents  
+### 🛠️ Skills
 
-🔗 https://github.com/mrshibly/QNARag  
-🔗 https://huggingface.co/spaces/mrshibly/QNARag  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**AI / ML & NLP**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-HuggingFace-yellow?style=flat-square)
+![BanglaBERT](https://img.shields.io/badge/BanglaBERT-NLP-blue?style=flat-square)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-blue?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=flat-square)
 
-### LlamaOCR — Bangla–English Document Intelligence
-- Built a multi-stage OCR + LLM pipeline for complex documents (e.g., NID cards)
-- Combined **OpenCV preprocessing** with **EasyOCR** for Bengali text
-- Used **Llama 3.3 70B** for zero-shot structured JSON extraction
-- Fully containerized using **Docker + FastAPI**  
+**Data & Vector Systems**  
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-red?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-🔗 https://github.com/mrshibly/LlamaOCR-Pipeline  
-🔗 https://huggingface.co/spaces/mrshibly/LlamaOCR-Pipeline  
-
----
-
-## Research
-
-### Multi-Label Emotion Detection in Bangla Text
-- Fine-tuned **BanglaBERT** on a multi-label emotion dataset
-- Addressed severe class imbalance via **back-translation and oversampling**
-- Achieved state-of-the-art performance improvements  
-- *Manuscript under journal review*
+**MLOps & Deployment**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Bangla Video Summarization (Ongoing)
-- Developing a **multimodal summarization system** using text, audio, and visual cues
-- Automated dataset collection and annotation pipelines
-
----
-
-## Experience & Leadership
-
-**AI Developer — Softvence**  
-Building and deploying AI systems for real-world use cases
-
-**Lead Executive — Cyber Security Club, DIU**  
-- Led National CTF 2025 and DIU CyberCon  
-- Mentored 100+ students in cybersecurity and AI
-
-**Campus Ambassador — Creative IT Institute**  
-- Organized workshops and industry-oriented technical sessions
-
----
-
-## Achievements
-
-- 🏆 **NASA Space Apps Challenge 2024** — Regional Winner & Global Nominee  
-- 🥇 Google Hacking Contest Champion (Back-to-Back, 2022–23)  
-- 🧠 Solved 100+ problems in competitive programming  
-- 🏁 ICPC Preliminary Contestant (2021, 2022, 2024)
-
----
-
-## Education
-
-**B.Sc. in Computer Science & Engineering**  
-Daffodil International University  
-CGPA: **3.63 / 4.00** · Passing Year: **2025**
-
----
-
-## Profiles
-
-- GitHub: https://github.com/mrshibly  
-- LinkedIn: https://www.linkedin.com/in/mrshibly  
-- Hugging Face: https://huggingface.co/mrshibly  
-- Kaggle: https://kaggle.com/mrshibly  
-
----
-
-> I focus on building **AI systems that work in production**, not just demos.
+### 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrshibly)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mrshibly)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/mrshibly)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/mrshibly)
