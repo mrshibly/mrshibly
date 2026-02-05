@@ -1,18 +1,26 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=120&section=header&text=Md.%20Mahmudur%20Rahman&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=160&section=header&text=Md.%20Mahmudur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" 
+    width="100%" 
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=2000&color=9FD3FF&center=true&vCenter=true&width=820&lines=AI+%2F+ML+Engineer;Bangla+NLP+%26+RAG+Systems;Computer+Vision+%26+Document+Intelligence" 
+    alt="Typing roles"
+  />
 </div>
 
 <p align="center">
-  <b>AI / ML Engineer</b> · Bangla NLP · RAG Systems · Computer Vision<br/>
-  NASA Space Apps Challenge 2024 — Regional Winner & Global Nominee
+  <sub>NASA Space Apps Challenge 2024 — Regional Winner & Global Nominee</sub>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20Views&color=grey&style=flat" />
   <img src="https://img.shields.io/github/followers/mrshibly?label=Followers&style=flat" />
 </p>
-
 ---
 
 ## 👋 About
