@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Working on **Bangla Video Summarization (Multimodal NLP)**
+- 🔭 Working as **AI Developer** at **Softvence**
 - 🌱 Learning **MLOps, LLMs, Applied AI**
 - 👨‍💻 Portfolio: [mrshibly.onrender.com](https://mrshibly.onrender.com)  
 - 📫 Reach me: **mahmudurrahman858@gmail.com**  
