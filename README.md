@@ -86,16 +86,22 @@ My work centers on **Bangla (low-resource) NLP**, **Retrieval-Augmented Generati
   <a href="https://www.linkedin.com/in/mrshibly">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/mrshibly">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
   <a href="https://huggingface.co/mrshibly">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
   </a>
-  <a href="mailto:mahmudurrahman858@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red"/>
+  <a href="https://kaggle.com/mrshibly">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
----
-
 <p align="center">
-  <sub>Focused on building AI systems that survive contact with reality.</sub>
+  <a href="https://mrshibly.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:mahmudurrahman858@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=red"/>
+  </a>
 </p>
