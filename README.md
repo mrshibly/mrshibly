@@ -76,15 +76,7 @@ My work centers on **Bangla (low-resource) NLP**, **Retrieval-Augmented Generati
 - **NASA Space Apps Challenge 2024** — Regional Winner & Global Nominee  
 - Built **RAG systems** over legal & economic documents with grounded outputs  
 - Developed **real-time YOLOv8 vision systems** optimized for edge inference  
-- Designed **OCR + LLM pipelines** for Bangla–English document intelligence  
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrshibly&theme=minimal&hide_border=true"/>
-</p>
+- Designed **OCR + LLM pipelines** for Bangla–English document intelligence 
 
 ---
 
