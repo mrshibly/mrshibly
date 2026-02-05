@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Md. Mahmudur Rahman</h1>
 <h3 align="center">
 AI / ML Engineer · Bangla NLP & RAG Systems · Computer Vision · NASA Space Apps Global Nominee
@@ -7,7 +6,6 @@ AI / ML Engineer · Bangla NLP & RAG Systems · Computer Vision · NASA Space Ap
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20views&color=0e75b6&style=plastic" alt="mrshibly" />
 </p>
-```
 ---
 
 ## 🚀 About Me
@@ -102,15 +100,3 @@ AI / ML Engineer · Bangla NLP & RAG Systems · Computer Vision · NASA Space Ap
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)](https://kaggle.com/mrshibly)
 
 ---
-
-### Final blunt advice
-
-* Drop vague titles like “Learning X, Y, Z” — you’re **already doing them**
-* Lead with **systems you built**, not tools you touched
-* This README should scream: *“I ship real AI systems in low-resource settings”*
-
-If you want, next we can:
-
-* Optimize this for **recruiters**
-* Make a **research-first** version
-* Or tune it specifically for **LLM / RAG roles**
