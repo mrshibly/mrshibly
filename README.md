@@ -10,6 +10,10 @@
 
 Versatile Software & AI Engineer specializing in production-grade backend architectures, autonomous AI agents (LangGraph, n8n), and scalable microservices. I build stateful multi-agent pipelines, high-precision RAG systems, and deploy LLM-powered workflows to production.
 
+🔭 Currently building: **production AI agents with LangGraph & n8n workflow automation**
+💼 Open to **AI/ML Engineering** roles — remote or Dhaka-based
+🎓 B.Sc. Computer Science & Engineering — Daffodil International University
+
 🏆 **NASA Space Apps Challenge 2024** — Regional Winner & Global Nominee (Top 50 worldwide)
 🥉 **NASA Space Apps Challenge 2023** — Regional 2nd Runner-Up
 🖥️ **ICPC Preliminary Contestant** (2021, 2022)
@@ -38,19 +42,19 @@ Versatile Software & AI Engineer specializing in production-grade backend archit
 
 ### Featured Work
 
-🔬 **[Autonomous Research Agent](https://github.com/mrshibly/autonomous-research-agent)** — Six coordinated agents (Planner → Search → Parser → Summarizer → Critic → Writer) that autonomously research any topic, with hybrid RAG (FAISS + BM25 + RRF) and real-time WebSocket streaming.
+🔬 **[Autonomous Research Agent](https://github.com/mrshibly/autonomous-research-agent)** [![demo](https://img.shields.io/badge/demo-live-2ea44f?style=flat)](https://mrshibly-autonomous-research-agent.hf.space) — Six coordinated agents (Planner → Search → Parser → Summarizer → Critic → Writer) that autonomously research any topic, with hybrid RAG (FAISS + BM25 + RRF) and real-time WebSocket streaming.
 `FastAPI` `LangChain` `FAISS` `BM25` `WebSockets` `Docker`
 
 ⚖️ **[LexDraft — Legal Document AI](https://github.com/mrshibly/LexDraft)** — High-precision legal RAG system ingesting PDFs, scans, and handwritten notes via OpenCV + Tesseract OCR, with a semantic preference engine that learns from human edits.
 `ChromaDB` `OpenCV` `Tesseract` `FastAPI` `Docker`
 
-🧠 **[MiniGPT from Scratch](https://github.com/mrshibly/MiniGPT-from-Scratch)** — Modern Llama-style decoder-only Transformer from scratch: custom BPE tokenizer, RoPE, SwiGLU, RMSNorm, Flash Attention, AMP mixed-precision training, and interactive Gradio demo.
+🧠 **[MiniGPT from Scratch](https://github.com/mrshibly/MiniGPT-from-Scratch)** [![demo](https://img.shields.io/badge/demo-live-2ea44f?style=flat)](https://mrshibly-minigpt.hf.space/) — Modern Llama-style decoder-only Transformer from scratch: custom BPE tokenizer, RoPE, SwiGLU, RMSNorm, Flash Attention, AMP mixed-precision training, and interactive Gradio demo.
 `PyTorch` `RoPE` `SwiGLU` `Flash Attention` `Gradio`
 
-🤖 **[RAG Assistant API](https://github.com/mrshibly/rag-assistant-fastapi)** — Production FastAPI service with document ingestion, RAG-based chat, context memory, and tool calling. Powered by local embeddings.
+🤖 **[RAG Assistant API](https://github.com/mrshibly/rag-assistant-fastapi)** [![docs](https://img.shields.io/badge/api-docs-2ea44f?style=flat)](https://rag-assistant-fastapi.onrender.com/docs) — Production FastAPI service with document ingestion, RAG-based chat, context memory, and tool calling. Powered by local embeddings.
 `FastAPI` `LLM` `RAG` `ChromaDB` `Tool Calling`
 
-🏢 **[DealershipMS](https://github.com/mrshibly/DealershipMS)** — Full-stack business management platform: FastAPI + SQLAlchemy 2.0 + PostgreSQL + React 19 + Redis, with JWT/RBAC auth, multi-language UI, and Docker Compose deployment.
+🏢 **[DealershipMS](https://github.com/mrshibly/DealershipMS)** [![demo](https://img.shields.io/badge/demo-live-2ea44f?style=flat)](https://dms-frontend-wine.vercel.app) — Full-stack business management platform: FastAPI + SQLAlchemy 2.0 + PostgreSQL + React 19 + Redis, with JWT/RBAC auth, multi-language UI, and Docker Compose deployment.
 `FastAPI` `PostgreSQL` `React` `Redis` `Docker`
 
 ---
