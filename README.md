@@ -1,153 +1,62 @@
-<!-- Header -->
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=160&section=header&text=Md.%20Mahmudur%20Rahman&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" 
-    width="100%" 
-  />
-</div>
+# Mahmudur Rahman
 
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3200&pause=2000&color=9FD3FF&center=true&vCenter=true&width=820&lines=AI+Engineer;LLM+Systems+%7C+RAG+%7C+Multi-Agent+AI;Building+Production-Ready+AI+Pipelines" 
-    alt="Typing roles"
-  />
-</div>
+**Software & AI Engineer** · LLM Systems · AI Agents · RAG · Backend Architecture
 
-<p align="center">
-  <sub>NASA Space Apps Challenge 2024 — Regional Winner & Global Nominee</sub>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrshibly&label=Profile%20Views&color=grey&style=flat" />
-  <img src="https://img.shields.io/github/followers/mrshibly?label=Followers&style=flat" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://mrshibly.onrender.com) [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail&logoColor=EA4335)](mailto:mahmudurrahman858@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mrshibly) [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/mrshibly)
 
 ---
 
-# 👋 About Me
+### About
 
-I'm an **AI Engineer at Softvence** building **production-ready AI systems** powered by **LLMs, Retrieval-Augmented Generation (RAG), and autonomous agent pipelines**.
+Versatile Software & AI Engineer specializing in production-grade backend architectures, autonomous AI agents (LangGraph, n8n), and scalable microservices. I build stateful multi-agent pipelines, high-precision RAG systems, and deploy LLM-powered workflows to production.
 
-My focus is designing **scalable AI architectures**, including multi-agent orchestration, semantic retrieval systems, and document intelligence pipelines.
-
-I enjoy solving problems in **low-resource language AI**, particularly **Bangla NLP**, and building systems that work reliably in real-world environments.
-
-📍 Dhaka, Bangladesh  
-🌐 Portfolio: https://mrshibly.onrender.com  
-📫 Email: **mahmudurrahman858@gmail.com**
+🏆 **NASA Space Apps Challenge 2024** — Regional Winner & Global Nominee (Top 50 worldwide)
+🥉 **NASA Space Apps Challenge 2023** — Regional 2nd Runner-Up
+🖥️ **ICPC Preliminary Contestant** (2021, 2022)
 
 ---
 
-# 🧠 Current Focus
+### Tech Stack
 
-- **LLM Systems & Transformer Architectures**
-- **Multi-Agent AI Systems**
-- **Retrieval-Augmented Generation (RAG)**
-- **Semantic Search & Vector Databases**
-- **Document AI & OCR Pipelines**
-- **Low-Resource NLP (Bangla Language AI)**
+**AI Agents & LLM Engineering**
 
----
+<p><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/CrewAI-000?style=flat&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Claude-CC9B7A?style=flat&logo=anthropic&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat&logoColor=white" height="20" /></p>
 
-# 🚀 Featured Projects
+**RAG & Vector Search**
 
-### 🔬 Autonomous AI Research Agent
-Multi-agent LLM system that autonomously searches academic papers, analyzes PDFs, and generates structured research reports.
+<p><img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/ChromaDB-FF4B4B?style=flat&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/BM25-333?style=flat&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000" height="20" /> <img src="https://img.shields.io/badge/Hybrid_Retrieval-555?style=flat&logoColor=white" height="20" /></p>
 
-Tech:
-`FastAPI` `FAISS` `SentenceTransformers` `Docker` `WebSockets`
+**Backend & Infrastructure**
 
----
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,redis,docker,linux,nginx,git&theme=dark&perline=12" height="32" /></p>
 
-### 📚 BD-Insight — Domain-Specific RAG System
-Semantic retrieval system over large legal and economic documents with grounded answer generation.
+**ML & Deep Learning**
 
-Tech:
-`FAISS` `Flan-T5` `FastAPI` `Transformers`
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=12" height="32" /> <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=huggingface&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="20" /> <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat&logoColor=white" height="20" /></p>
 
 ---
 
-### 📄 LlamaOCR — Bangla Document Intelligence
-OCR + LLM pipeline that converts multilingual documents into structured JSON outputs.
+### Featured Work
 
-Tech:
-`EasyOCR` `OpenCV` `Groq` `Llama 3` `FastAPI`
+🔬 **[Autonomous Research Agent](https://github.com/mrshibly/autonomous-research-agent)** — Six coordinated agents (Planner → Search → Parser → Summarizer → Critic → Writer) that autonomously research any topic, with hybrid RAG (FAISS + BM25 + RRF) and real-time WebSocket streaming.
+`FastAPI` `LangChain` `FAISS` `BM25` `WebSockets` `Docker`
 
----
+⚖️ **[LexDraft — Legal Document AI](https://github.com/mrshibly/LexDraft)** — High-precision legal RAG system ingesting PDFs, scans, and handwritten notes via OpenCV + Tesseract OCR, with a semantic preference engine that learns from human edits.
+`ChromaDB` `OpenCV` `Tesseract` `FastAPI` `Docker`
 
-### 🧠 MiniGPT (In Progress)
-Training a **GPT-style decoder-only Transformer from scratch** including tokenizer, dataset pipeline, training loop, and text generation.
+🧠 **[MiniGPT from Scratch](https://github.com/mrshibly/MiniGPT-from-Scratch)** — Modern Llama-style decoder-only Transformer from scratch: custom BPE tokenizer, RoPE, SwiGLU, RMSNorm, Flash Attention, AMP mixed-precision training, and interactive Gradio demo.
+`PyTorch` `RoPE` `SwiGLU` `Flash Attention` `Gradio`
 
-Tech:
-`PyTorch` `Transformers` `Tokenization` `Mixed Precision Training`
+🤖 **[RAG Assistant API](https://github.com/mrshibly/rag-assistant-fastapi)** — Production FastAPI service with document ingestion, RAG-based chat, context memory, and tool calling. Powered by local embeddings.
+`FastAPI` `LLM` `RAG` `ChromaDB` `Tool Calling`
 
----
-
-# 🛠️ Tech Stack
-
-### AI / ML
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/SentenceTransformers-NLP-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=flat-square"/>
-</p>
-
-### LLM Systems
-<p>
-<img src="https://img.shields.io/badge/RAG-Architecture-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-Agents-green?style=flat-square"/>
-</p>
-
-### Backend / Deployment
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
-### Languages
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+🏢 **[DealershipMS](https://github.com/mrshibly/DealershipMS)** — Full-stack business management platform: FastAPI + SQLAlchemy 2.0 + PostgreSQL + React 19 + Redis, with JWT/RBAC auth, multi-language UI, and Docker Compose deployment.
+`FastAPI` `PostgreSQL` `React` `Redis` `Docker`
 
 ---
 
-# 🏆 Achievements
+### GitHub Stats
 
-- 🏆 **NASA Space Apps Challenge 2024 — Regional Winner**
-- 🥇 **Back-to-Back Champion — Google Hacking Contest (DIU)**
-- 💻 Solved **100+ competitive programming problems**
-- 🧠 ICPC Preliminary Contestant (2021, 2022, 2024)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshibly&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" /></p>
 
----
-
-# 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrshibly">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mrshibly">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/mrshibly">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  </a>
-  <a href="https://kaggle.com/mrshibly">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://mrshibly.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:mahmudurrahman858@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=red"/>
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=mrshibly&label=views&color=58a6ff&style=flat)
