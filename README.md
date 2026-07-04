@@ -11,16 +11,12 @@
 Versatile Software & AI Engineer specializing in production-grade backend architectures, autonomous AI agents (LangGraph, n8n), and scalable microservices. I build stateful multi-agent pipelines, high-precision RAG systems, and deploy LLM-powered workflows to production.
 
 🔭 Currently building: **production AI agents with LangGraph & n8n workflow automation**
-
 💼 Open to **AI/ML Engineering** roles — remote or Dhaka-based
-
 🎓 B.Sc. Computer Science & Engineering — Daffodil International University
 
 
 🏆 **NASA Space Apps Challenge 2024** — Regional Winner & Global Nominee (Top 50 worldwide)
-
 🥉 **NASA Space Apps Challenge 2023** — Regional 2nd Runner-Up
-
 🖥️ **ICPC Preliminary Contestant** (2021, 2022)
 
 ---
